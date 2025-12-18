@@ -54,4 +54,4 @@ scikit-learn
 
 NumPy
 
-OpenCV / scikit-image (if applicable)
+OpenCV
